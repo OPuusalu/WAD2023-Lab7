@@ -9,3 +9,10 @@ body {
     margin: 10px auto;
     border: 1px solid gray;
 }
+p::first-letter {
+    text-transform: uppercase;
+}
+
+h3 {
+    color:hotpink;
+}
